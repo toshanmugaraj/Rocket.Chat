@@ -222,7 +222,7 @@
 		"subscriptions-transport-ws": "^0.9.11",
 		"tar-stream": "^1.6.2",
 		"toastr": "^2.1.4",
-		"turndown": "^5.0.1",
+		"turndown": "^7.2.2",
 		"twilio": "^3.25.0",
 		"twit": "^2.2.11",
 		"ua-parser-js": "^0.7.19",
